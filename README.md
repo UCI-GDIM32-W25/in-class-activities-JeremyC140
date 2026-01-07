@@ -11,3 +11,7 @@ Hit enter TWICE to create a new line.
 
 
 Remove all placeholder text in order to get full credit for README file formatting.
+
+## W1
+My advice: don't miss every of the little details in the rubric
+Table advice: read the rubric line by line, ask questions when stuck, don't procrastinate
