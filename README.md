@@ -13,11 +13,12 @@ Hit enter TWICE to create a new line.
 Remove all placeholder text in order to get full credit for README file formatting.
 
 ## W1
+Activity 1:
 - My advice: don't miss every of the little details in the rubric
 - Table advice: read the rubric line by line, ask questions when stuck, don't procrastinate
 
-Activity 2 answer:
 
+Activity 2:
 - Q1: x = 10
 
 - Q2: x = 2
@@ -33,3 +34,7 @@ Activity 2 answer:
 - Q7: The Transform is not defined and the computer wouldn't know which object it's supposed to translate.  
 
 - Q8: Thus, Transform is supposed to be altered to _playerTransform in order to correctly assign the object for translate.
+
+
+Activity 3:
+https://docs.google.com/document/d/1Ze4Iwr71L5shh5hsj0SjaYT7WLsAfV0lCdb13onncaA/edit?usp=sharing
