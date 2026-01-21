@@ -1,8 +1,13 @@
 # GDIM32 In Class Activities
 
+
 ## W3
 ### Activity 0-2:
 Partner name: Jingyi Cheng
+
+### Activity 3: MG3 Breakdown
+
+
 
 ## W2
 ### Activity 1: MG2 Breakdown
@@ -16,6 +21,7 @@ I finished the assets setup, the jumping of penguin (and isGrounded check), the 
 TO-DO:
 - Fix coins not moving
 - Assign enough variables to update the text 
+
 
 ## W1
 ### Activity 1:
