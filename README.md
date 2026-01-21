@@ -6,7 +6,7 @@
 Partner name: Jingyi Cheng
 
 ### Activity 3: MG3 Breakdown
-
+![IMG_2934](https://github.com/user-attachments/assets/746d7526-dd71-4e2f-846c-739bdf2079db)
 
 
 ## W2
