@@ -1,7 +1,8 @@
 # GDIM32 In Class Activities
 
 ## W3
-
+### Activity 0-2:
+Partner name: Jingyi Cheng
 
 ## W2
 ### Activity 1: MG2 Breakdown
