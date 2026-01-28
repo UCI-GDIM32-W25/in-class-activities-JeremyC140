@@ -1,6 +1,14 @@
 # GDIM32 In Class Activities
 
 
+## W4
+### Activity 1:
+Partner name: Jingyi Cheng
+
+Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
+- Only one among all the scripts will remain, the other locator is destroyed (only the scripts are destroyed not the gameObject it attached to). 
+
+
 ## W3
 ### Activity 0-2:
 Partner name: Jingyi Cheng
