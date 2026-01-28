@@ -12,6 +12,10 @@ Add multiple Locator objects to the Scene. What happens to the Locator objects w
 ### Activity 2:
 ![MG4 Breakdown](https://github.com/user-attachments/assets/22a77f76-cb9a-4bac-a0cd-2dd919675ff5)
 
+### Activity 3:
+![in-class commit history](https://github.com/JeremyC140/mg4/commits/main/)
+
+Spent most of the time setting up the sprites, rendering their images, and building their colliders. Finished lower, mid, upper pipes logic (basically the entire pipe prefabs' appearance) and the player sprite :))
 
 ## W3
 ### Activity 0-2:
