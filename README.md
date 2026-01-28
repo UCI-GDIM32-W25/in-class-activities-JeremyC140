@@ -6,7 +6,11 @@
 Partner name: Jingyi Cheng
 
 Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
-- Only one among all the scripts will remain, the other locator is destroyed (only the scripts are destroyed not the gameObject it attached to). 
+- Only one among all the scripts will remain, the other locator is destroyed (only the scripts are destroyed not the gameObject it attached to).
+
+
+### Activity 2:
+![MG4 Breakdown](https://github.com/user-attachments/assets/22a77f76-cb9a-4bac-a0cd-2dd919675ff5)
 
 
 ## W3
