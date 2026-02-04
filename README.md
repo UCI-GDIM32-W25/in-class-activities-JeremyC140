@@ -17,6 +17,7 @@ A major component to do with inheritance is the type of weapons. The parent clas
 
 ### Activity 4:
 Attendence for Nameless group: Jamin, Jingyi
+
 [Proposal First Draft](https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing) 
 
 ## W4
