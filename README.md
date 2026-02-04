@@ -1,5 +1,22 @@
 # GDIM32 In Class Activities
 
+## W5
+### Activity 1:
+In this activity, the thing I've observed is that most of the compile error happens because the child classes fails to implement the required methods from the parent (interface or abstract), didn't use the intended modifier, or that the override was forgot. For me, I actually found this type of inheritance useful, in the purpose of establishing the "defaults methods" that must be correctly implemented by the child classes and that "shouldn't be forgot". These compile errors would act as a good reminder when I forgot to implement some key features for these classes. Although the structure seems complicated at first, it's very logical after decomposing and looking detailedly into its working logic. Inheritance would definitely be useful as the project evolves in size, and I would want to implement these design patterns to make my code more professional. 
+
+### Activity 2:
+- Model -> the scriptable objects represent the model part because they are data structures that handle the most fundamental logic of the game
+- View -> inventory UI handles the display of inventory to the screen, as well as the dialogue class
+- Controller -> player class controls the central mechanism for the game to work
+
+### Activity 3:
+#### Scenario 2: team shooter
+In team shooting game, we think the model represents the data and stats for the tools, projectiles, and weapons, and they are encapsulated by scriptable objects. The view is displayed as the UI, players on-screen movement, map, and the scoreboard. As for the controller, it controls and manipulates the actions and logics of them, and the conditioning (like killed or picked(grab something to the inventory). Most of the controller and manager (like gamecontroller, UImanager, audiomanager) will exist as singleton for easier reference. 
+
+A major component to do with inheritance is the type of weapons. The parent class could be Guns, Projectile, Knife, and there would be specific weapons that inherited from these parent classes. Polymorphism is useful for coding the required features for the weapons, such as the public method AmountofDamage, inherited variables like ammo. 
+
+### Activity 4:
+Attendence for Nameless group: Jamin, Jingyi
 
 ## W4
 ### Activity 1:
