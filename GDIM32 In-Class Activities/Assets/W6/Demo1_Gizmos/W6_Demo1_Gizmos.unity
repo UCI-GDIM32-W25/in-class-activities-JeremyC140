@@ -1380,6 +1380,7 @@ GameObject:
   - component: {fileID: 1366108217}
   - component: {fileID: 1366108216}
   - component: {fileID: 1366108218}
+  - component: {fileID: 1366108219}
   m_Layer: 0
   m_Name: Capybara
   m_TagString: Untagged
@@ -1565,6 +1566,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _collider: {fileID: 1366108217}
+--- !u!114 &1366108219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366108211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f01e90327f98d490cb84c09cca034f6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _rigidbody: {fileID: 0}
 --- !u!1 &1590682315
 GameObject:
   m_ObjectHideFlags: 0
