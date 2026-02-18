@@ -1,15 +1,27 @@
 # GDIM32 In Class Activities
 
+## W7
+### Activity 1:
+While running through the demo, I reviewed the code for FSM and read the codes through thoroughly. Also, I found the duck NPC's auto-following function exactly the thing we need for our project, where the monster will be a NPC checking its distance with the player and run toward the player. This demo will be a great basis for our Monster movement script, and we will apply the similar usage of raycasting and gizmos for better visualization of our work. 
+
+### Activity 2:
+Attendence for Nameless group: Jingyi
+
+### Activity 3:
+
+
+
 ## W6
 ### Activity 1:
 - For the demo about optimization, I found the Profiler function EXTREMELY COOL!! It gives me important insights about why the optimization in the large games I played often seem so hard and complicated. Sometimes the precisions about game details have to be sacrificed for the important mechanics to perform better, such as how in FPS games the textures of materials are simplified for players to have a smooth shooting experience. 
 - The demo about gizmos is really fascinating. By the only time I've got used of gizmos to outline the camera perspective for me, I've never thought how gizmos could help programmer this much, in accurately tracking all these physics components of a game object just as shown in the example. It would definitely get a lot of use in my future projects and career. 
 - The demo about breakpoint is helpful for debugging. Haven't have chance to try it but it's certainly useful in the case of game designing, since programmer has to deal with multiple scripts at a time. I would start getting use to it when I find that simply "proof-reading" the scripts might not be enough for debugging XDD.
 
-## Activity 2:
-Attendence for Nameless group: Jingyi
+### Activity 2:
+Attendence for Nameless group: Jingyi, Jamin
 
 - We deleted the "Inheritance and Polymorthism" section because it's not really applicable to our game and we already have other three decent architecture systems. We also solidify our plan by deciding the environment to be forest, the NPC to be a friendly villager, and searching for the 3D model of the antagonist. 
+
 
 ## W5
 ### Activity 1:
