@@ -16,6 +16,9 @@ Current task assigned:
 Jeremy: Start with the monster script, implement basic gameObjects
 Averin: Looking up for 3D models, plannng the terrain
 
+### Activity 5:
+Import the texture and tree models for future use. Tried with implementing the tree prefabs but currently failing because the model looks like a bunch of weird 3D pillars. 
+
 
 ## W6
 ### Activity 1:
