@@ -7,8 +7,9 @@ While running through the demo, I reviewed the code for FSM and read the codes t
 ### Activity 2:
 Attendence for Nameless group: Jingyi
 
-### Activity 3:
 
+### Activity 3:
+![Final Breakdown](https://github.com/user-attachments/assets/8503d99e-8b1c-41da-8af3-8e570edcfa2e)
 
 
 ## W6
