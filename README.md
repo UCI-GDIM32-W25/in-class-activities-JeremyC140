@@ -1,5 +1,11 @@
 # GDIM32 In Class Activities
 
+## W8
+### Activity 1:
+Took notes about rendering pipeline and post-processing effects in notion
+[My notion note](https://www.notion.so/Rendering-312fca0abb9d8027bdfaff3f39edec5d?source=copy_link)
+
+
 ## W7
 ### Activity 1:
 While running through the demo, I reviewed the code for FSM and read the codes through thoroughly. Also, I found the duck NPC's auto-following function exactly the thing we need for our project, where the monster will be a NPC checking its distance with the player and run toward the player. This demo will be a great basis for our Monster movement script, and we will apply the similar usage of raycasting and gizmos for better visualization of our work. 
