@@ -3,7 +3,7 @@
 ## W8
 ### Activity 1:
 Took notes about rendering pipeline and post-processing effects in notion
-[My notion note](https://www.notion.so/Rendering-312fca0abb9d8027bdfaff3f39edec5d?source=copy_link)
+\n[My notion note](https://www.notion.so/Rendering-312fca0abb9d8027bdfaff3f39edec5d?source=copy_link)
 
 
 ## W7
