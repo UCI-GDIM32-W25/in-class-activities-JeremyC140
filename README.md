@@ -12,6 +12,18 @@ Attendence for Nameless group: Jingyi
 ### Activity 3:
 Observation: we only hinted the playtesters about the main character's WASD movement when the playtest started. When the game started, the playtesters quickly understand that they should try to run away from the monster that chases them right from the start. Our playtesting group actually spontaneously discovers that they can sprint by holding left shift (which they said is a common feature in games), and they also successfully run away from the monster after using sprinting, which is what we intended to do. All playtesters and LA found the monster model to be terrifying, which is exactly what we are trying to achieve. 
 
+### Activity 4:
+[Tree Asset Pack](https://elegantcrow.itch.io/psx-retro-style-tree-pack)
+
+[Horror Texture Pack](https://screamingbrainstudios.itch.io/horror-texture-pack)
+
+These are the assets implemented into our project. I will be starting with the NPC scripts today. 
+
+### Activity 5:
+I implemented the scriptable objects for dialogues, and by appending objects into previous dialogue nodes, it should be able to create the branch dialogue effect. 
+
+[Commit history](https://github.com/AVI-F4NG/GDIM32-Final/commits/main/)
+
 
 ## W7
 ### Activity 1:
