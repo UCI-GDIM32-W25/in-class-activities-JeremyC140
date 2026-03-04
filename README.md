@@ -1,5 +1,24 @@
 # GDIM32 In Class Activities
 
+## W9
+### Activity 1:
+Again took note in notion about branched dialogue architectural system! After pre-learning, I also implemented similar feature into our project.
+
+[My notion note](https://www.notion.so/Branched-Dialogue-315fca0abb9d80c699efdc553ecae0c8?source=copy_link)
+
+### Activity 2:
+Attendence for Nameless group: Jingyi
+
+### Activity 3:
+We got playtested by our buddy team, TAs, and the professor! Hurray! For this round of playtest, we received feedbacks about how our game UI is off on the itch page (which is also a device issue because it looks off on my (team captain) laptop but not teammate's). Besides that, playtesters mostly understood the flow of the game and complete quest 1 with only some tiny hints. Before the final, we will tackle the problems about UI (that maintain across devices' itch pages), quest guides (some playtesters couldn't find the lantern without hinting; general interaction distance with objects; and so on), and player experience (modify player and monster speed; modify the interaction of player vs monster). We should also make use of the large-scaled map we've made. 
+
+### Activity 4:
+I think we are 70% done in term of game functionalities, but we still need a significant amount of works in term of refinement of details. Our progress is actually great, but we are still lacking group coordination and communication. I have organized our completed tasks and current to-do, and post it as a group message. I also establish a deadline for our current task, which is next monday with a mandatory self check-in on sunday. I hope this improve our productivity as a team. Our project scope is still managable and we should be able to complete two quests and the functionalities as we planned. 
+
+### Activity 5:
+
+
+
 ## W8
 ### Activity 1:
 Took notes about rendering pipeline and post-processing effects in notion
