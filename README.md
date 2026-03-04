@@ -16,7 +16,9 @@ We got playtested by our buddy team, TAs, and the professor! Hurray! For this ro
 I think we are 70% done in term of game functionalities, but we still need a significant amount of works in term of refinement of details. Our progress is actually great, but we are still lacking group coordination and communication. I have organized our completed tasks and current to-do, and post it as a group message. I also establish a deadline for our current task, which is next monday with a mandatory self check-in on sunday. I hope this improve our productivity as a team. Our project scope is still managable and we should be able to complete two quests and the functionalities as we planned. 
 
 ### Activity 5:
+Determined to resolve UI problems. In a professional way QwQ!! Current progress: look up youtube video for anchor and pivot point settings; trying to divide UI into several zone panels to anchor different HUD in their supposed position. Still working on it and will dive more into how font should be auto sizing in order to work on all type of screen ratio.
 
+[Today's commit](https://github.com/AVI-F4NG/GDIM32-Final/commit/d6d44cd3aa6da8a1e88f37bb9b157a37295d3825)
 
 
 ## W8
