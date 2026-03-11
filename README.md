@@ -1,5 +1,23 @@
 # GDIM32 In Class Activities
 
+## W10
+### Activity 1:
+Attendence for Nameless group: Jingyi
+
+### Activity 2:
+Playtested by TA! The game itself doesn't change much from last week. Playtester observed and appreciated how the typing effect of dialogue is cool, and how we could improve more on the way that monster approaches the player. We are currently trying to fix the vector operation of monster's moving behavior to make it more active in chasing the player. 
+
+### Activity 3:
+Since last week, we completed the UI modification, made some improvement to player experience, and attempt to implement the fear meter. We are almost done with the game. The following features still have to be fully implemented. 
+- fear meter
+- quest 2: crystal search and pickup
+- sound effects
+
+### Activity 4:
+Adjust statistics like speed and monster chases speed for a more horror experience. Implement fear meter but not it's UI. 
+[Today's commit](https://github.com/AVI-F4NG/GDIM32-Final/commits/main/)
+
+
 ## W9
 ### Activity 1:
 Again took note in notion about branched dialogue architectural system! After pre-learning, I also implemented similar feature into our project.
